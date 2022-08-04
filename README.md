@@ -1,4 +1,4 @@
-## Olá! Eu sou Daniel Ferreira, estudante de tecnologia!
+## Olá! Eu sou Daniel Ferreira, Desenvolvedor full stack!
 
 <div align="center">
   <a href="https://github.com/alfdaniel">
