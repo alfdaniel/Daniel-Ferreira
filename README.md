@@ -20,7 +20,6 @@
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Karma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karma/karma-original.svg" />
   <img align="center" alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
-  <img align="center" alt="WebSocket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/websocket/websocket-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />
